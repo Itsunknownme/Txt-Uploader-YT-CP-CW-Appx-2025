@@ -4,7 +4,7 @@ services:
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/RupakAryan/Txt-Uploader-YT-CP-CW-Appx-2025.git
+    repo: https://github.com/Itsunknownme/Txt-Uploader-YT-CP-CW-Appx-2025.git
     branch: main
     autoDeploy: false
     envVars:
